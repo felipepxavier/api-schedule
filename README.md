@@ -1,4 +1,7 @@
 # app-schedule
+
+## APP back-end desenvolvido em NODEJS para agendamento de trabalho.
+
 Nodemon(reload dos arquivos em ambiente de desenvolvimento); <br />
 Sucrase como compilador JS; <br />
 Construção MVC(Sem View => app Back-end); <br />
