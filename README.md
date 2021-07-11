@@ -1,6 +1,6 @@
 # api-schedule
 
-## API desenvolvido em NODEJS para agendamento de trabalho.
+## API desenvolvida em NODEJS para agendamento de trabalho.
 
 Nodemon(reload dos arquivos em ambiente de desenvolvimento); <br />
 Sucrase como compilador JS; <br />
