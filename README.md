@@ -1,6 +1,6 @@
-# app-schedule
+# api-schedule
 
-## APP back-end desenvolvido em NODEJS para agendamento de trabalho.
+## API desenvolvido em NODEJS para agendamento de trabalho.
 
 Nodemon(reload dos arquivos em ambiente de desenvolvimento); <br />
 Sucrase como compilador JS; <br />
